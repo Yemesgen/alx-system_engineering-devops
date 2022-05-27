@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 644 -R
+chmod -F 644
