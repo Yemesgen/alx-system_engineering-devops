@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod x[ugo+x]or[a+x hello
+chmod ugo+x hello
