@@ -1,2 +1,2 @@
 #!/bin/bash
-cat hello | tac | rev
+chmod --reference=olleh hello
